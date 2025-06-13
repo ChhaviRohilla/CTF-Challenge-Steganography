@@ -1,3 +1,7 @@
+## For Writeup
+I am Author @SEASIDES_HACK_QUEST/Steganography.md <br>
+Link to writeup: https://github.com/defHawk-tech/Official_Writeups/blob/main/SEASIDES_HACK_QUEST/Steganography.md
+
 ## Process of Making - Steganography 
 ### Description: 
 Steganography is the art of concealing information within another file or object. In this challenge, the flag is hidden across two separate images. Your mission is to uncover the concealed data, piece it together, and reveal the full flag. <br>
